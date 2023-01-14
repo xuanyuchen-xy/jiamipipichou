@@ -1,6 +1,8 @@
 #! /usr/bin/env python3.6
 """
 Python 3.6 or newer required.
+
+hahahahahahhahahahahahahahah
 """
 import json
 import os
